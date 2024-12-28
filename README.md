@@ -73,7 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ```sh
 npm init
-npm install bootstrap react-bootstrap react-router-dom react-i18next i18nex --legacy-peer-deps
+npm install bootstrap react-bootstrap react-router-dom react-i18next i18next --legacy-peer-deps
 
 npm install -g serve
 ```
