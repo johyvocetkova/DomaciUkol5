@@ -1,0 +1,111 @@
+[
+    {
+      "id": "4310d47bdbd3ed55",
+      "date": "2024-12-11T19:32:10",
+      "name": "[Mock] My test",
+      "archived": false,
+      "ownerId": "1",
+      "items": [
+        {
+          "name": "Rohlik",
+          "count": "13",
+          "unit": "kus",
+          "solved": false,
+          "id": "1bab8b0165a95d82"
+        },
+        {
+          "name": "Pivo",
+          "count": "12",
+          "unit": "2",
+          "solved": false,
+          "id": "ff3f38503e4cfc00"
+        }
+      ],
+      "members": [
+        "4",
+        "5"
+      ]
+    },
+    {
+      "id": "f881d4830737fcc1",
+      "date": "2024-12-09T15:25:34",
+      "name": "[Mock] Johns",
+      "archived": false,
+      "ownerId": "2",
+      "items": [
+        {
+          "name": "Two",
+          "count": "1",
+          "unit": "",
+          "solved": false,
+          "id": "3bbabeb910d64863"
+        },
+        {
+          "name": "Three",
+          "count": "1",
+          "unit": "",
+          "solved": false,
+          "id": "6dda53dbf508fb16"
+        }
+      ],
+      "members": []
+    },
+    {
+      "id": "9595b31a991f464d",
+      "date": "2024-12-09T15:25:49",
+      "name": "[Mock] Paul's list",
+      "archived": false,
+      "ownerId": "3",
+      "items": [],
+      "members": []
+    },
+    {
+      "id": "664abc8b4d8cc65b",
+      "date": "2024-12-10T07:18:03",
+      "name": "[Mock] Archive test",
+      "archived": false,
+      "ownerId": "1",
+      "items": [],
+      "members": []
+    },
+    {
+      "id": "86b0d570cc83bcd8",
+      "date": "2024-12-11T19:39:51",
+      "name": "[Mock] xxxx",
+      "archived": false,
+      "ownerId": "1",
+      "items": [],
+      "members": []
+    },
+    {
+      "id": "170252ddbcb8909d",
+      "date": "2024-12-11T19:41:20",
+      "name": "[Mock] Friday shopping",
+      "archived": false,
+      "ownerId": "1",
+      "items": [
+        {
+          "name": "rohlik",
+          "count": "1",
+          "unit": "",
+          "solved": false,
+          "id": "2f3a3c9a79882e4d"
+        },
+        {
+          "name": "rohlik",
+          "count": "1",
+          "unit": "",
+          "solved": false,
+          "id": "474d64cc49551f5a"
+        },
+        {
+          "name": "Mliko",
+          "count": "1",
+          "unit": "",
+          "solved": false,
+          "id": "83c5038bb16944a4"
+        }
+      ],
+      "members": []
+    }
+  ]
